@@ -40,24 +40,22 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Supported languages
+# Java DSA Practice
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+This repository contains my Java solutions for:
+- NeetCode 150
+- Data Structures & Algorithms
+- Interview preparation
 
----
+Topics Covered:
+- Arrays & Hashing
+- Stack
+- Two Pointers
+- Binary Search
+- Linked List
 
+Language:
+- Java
 ## Settings
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
